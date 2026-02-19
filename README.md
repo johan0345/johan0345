@@ -25,5 +25,5 @@ My current goal is to look for an internship for year 2 as a software developer 
 ### [Portfolio Website](https://github.com/johan0345/Portfolio)<br>
 
 ## 📫 Contact<br>
-- LinkedIn: [https://www.linkedin.com/in/johan-ton-a20a89246/]<br>
-- Email: [johan.ton2003@hotmail.com]<br>
+- LinkedIn: https://www.linkedin.com/in/johan-ton-a20a89246/<br>
+- Email: johan.ton2003@hotmail.com<br>
